@@ -1,7 +1,7 @@
 package trade.exception;
 
 /**
- * Storage exception, thrown in case of problem with storage setup 
+ * Storage exception, thrown in case of problem with storage setup
  * 
  *
  */

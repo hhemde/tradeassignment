@@ -1,4 +1,5 @@
 package trade.utils;
+
 /**
  * 
  * Constants for trade
